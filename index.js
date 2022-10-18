@@ -10,3 +10,4 @@ function getTranslated() {
       translated.textContent = data.contents.translated;
     });
 }
+  
